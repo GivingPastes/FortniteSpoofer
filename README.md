@@ -1,5 +1,6 @@
 # FortniteSpoofer
 A Fortnite spoofer working 100% UD What also works on every game :)
+Tested on 8/4/22 Working!
 [+] UD on FN
 [+] UD on Warzone
 [+] UD on FiveM
